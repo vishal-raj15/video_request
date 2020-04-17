@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/youtube_prototype/static/css/main.b8775964.chunk.css",
-    "main.js": "/youtube_prototype/static/js/main.4e6c24e0.chunk.js",
-    "main.js.map": "/youtube_prototype/static/js/main.4e6c24e0.chunk.js.map",
-    "runtime-main.js": "/youtube_prototype/static/js/runtime-main.fdd61822.js",
-    "runtime-main.js.map": "/youtube_prototype/static/js/runtime-main.fdd61822.js.map",
-    "static/js/2.c10682e0.chunk.js": "/youtube_prototype/static/js/2.c10682e0.chunk.js",
-    "static/js/2.c10682e0.chunk.js.map": "/youtube_prototype/static/js/2.c10682e0.chunk.js.map",
-    "index.html": "/youtube_prototype/index.html",
-    "precache-manifest.df4a7d17a3bc0b5206601e3dcd72dd04.js": "/youtube_prototype/precache-manifest.df4a7d17a3bc0b5206601e3dcd72dd04.js",
-    "service-worker.js": "/youtube_prototype/service-worker.js",
-    "static/css/main.b8775964.chunk.css.map": "/youtube_prototype/static/css/main.b8775964.chunk.css.map",
-    "static/js/2.c10682e0.chunk.js.LICENSE.txt": "/youtube_prototype/static/js/2.c10682e0.chunk.js.LICENSE.txt"
+    "main.css": "/video_request/static/css/main.b8775964.chunk.css",
+    "main.js": "/video_request/static/js/main.4e6c24e0.chunk.js",
+    "main.js.map": "/video_request/static/js/main.4e6c24e0.chunk.js.map",
+    "runtime-main.js": "/video_request/static/js/runtime-main.dd006870.js",
+    "runtime-main.js.map": "/video_request/static/js/runtime-main.dd006870.js.map",
+    "static/js/2.c10682e0.chunk.js": "/video_request/static/js/2.c10682e0.chunk.js",
+    "static/js/2.c10682e0.chunk.js.map": "/video_request/static/js/2.c10682e0.chunk.js.map",
+    "index.html": "/video_request/index.html",
+    "precache-manifest.31e08e7c01fa5de11f26ce6412ea7001.js": "/video_request/precache-manifest.31e08e7c01fa5de11f26ce6412ea7001.js",
+    "service-worker.js": "/video_request/service-worker.js",
+    "static/css/main.b8775964.chunk.css.map": "/video_request/static/css/main.b8775964.chunk.css.map",
+    "static/js/2.c10682e0.chunk.js.LICENSE.txt": "/video_request/static/js/2.c10682e0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fdd61822.js",
+    "static/js/runtime-main.dd006870.js",
     "static/js/2.c10682e0.chunk.js",
     "static/css/main.b8775964.chunk.css",
     "static/js/main.4e6c24e0.chunk.js"
