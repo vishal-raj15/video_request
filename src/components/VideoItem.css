@@ -1,0 +1,18 @@
+.video-item {
+    display: flex !important;
+    align-items: center !important;
+    cursor: pointer;
+}
+
+.test {
+    display: flex !important;
+    align-items: center !important;
+    cursor: pointer;
+}
+
+.video-item.item img {
+    max-width: 180px;
+}
+.test2 {
+    float: right;
+}
